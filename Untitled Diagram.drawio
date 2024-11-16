@@ -1,9 +1,159 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
-  <diagram name="Page-1" id="kG2902i5jnEDkUhCrHqp">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="2">
+  <diagram name="Docker Introduction" id="kG2902i5jnEDkUhCrHqp">
+    <mxGraphModel dx="1563" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QCV6zHcwevkFfCttCCVD-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-4" target="VgRUNc_Hlyq_OPbfIP2C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-4" target="VgRUNc_Hlyq_OPbfIP2C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-6" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-4" target="QCV6zHcwevkFfCttCCVD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-4" target="QCV6zHcwevkFfCttCCVD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-4" target="QCV6zHcwevkFfCttCCVD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-4" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-5" value="Container" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-3" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-6" target="QCV6zHcwevkFfCttCCVD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-6" value="Images" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-7" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-120" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-8" target="VgRUNc_Hlyq_OPbfIP2C-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-8" value="Installation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-14" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-10" target="VgRUNc_Hlyq_OPbfIP2C-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-10" value="Ubuntu" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done" link="for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done" id="VgRUNc_Hlyq_OPbfIP2C-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=8;fontColor=default;fillColor=default;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+            <mxGeometry x="-610" y="50" width="270" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 8px;&quot;&gt;sudo apt-get update&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;sudo apt-get install ca-certificates curl&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;sudo install -m 0755 -d /etc/apt/keyrings&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;sudo chmod a+r /etc/apt/keyrings/docker.asc&lt;/div&gt;" link="for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done" id="VgRUNc_Hlyq_OPbfIP2C-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=8;fontColor=default;fillColor=default;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+            <mxGeometry x="-610" y="150" width="280" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-18" target="VgRUNc_Hlyq_OPbfIP2C-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="echo \&#xa;&amp;nbsp; &quot;deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \&#xa;&amp;nbsp; $(. /etc/os-release &amp;amp;&amp;amp; echo &quot;$VERSION_CODENAME&quot;) stable&quot; | \&#xa;&amp;nbsp; sudo tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null&#xa;sudo apt-get update" link="echo \&#xa;  &quot;deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \&#xa;  $(. /etc/os-release &amp;&amp; echo &quot;$VERSION_CODENAME&quot;) stable&quot; | \&#xa;  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null&#xa;sudo apt-get update" id="VgRUNc_Hlyq_OPbfIP2C-18">
+          <mxCell style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;align=left;rounded=1;glass=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="-610" y="270" width="300" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-29" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-22" target="VgRUNc_Hlyq_OPbfIP2C-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin" link="sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin" id="VgRUNc_Hlyq_OPbfIP2C-22">
+          <mxCell style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;align=left;rounded=1;glass=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="-610" y="390" width="300" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-13" target="VgRUNc_Hlyq_OPbfIP2C-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VgRUNc_Hlyq_OPbfIP2C-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.473;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-16" target="VgRUNc_Hlyq_OPbfIP2C-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="sudo docker run hello-world" link="sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin" id="VgRUNc_Hlyq_OPbfIP2C-28">
+          <mxCell style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;align=left;rounded=1;glass=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="-610" y="480" width="300" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-2" value="The blueprints of our application which form the basis of containers. In the demo above" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-5" value="Docker Daemon" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-7" value="Docker Client" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VgRUNc_Hlyq_OPbfIP2C-8" target="VgRUNc_Hlyq_OPbfIP2C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCV6zHcwevkFfCttCCVD-10" value="Docker Hub" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="m3LBm0M3BFw5hxa-9AN0" name="Tutorial">
+    <mxGraphModel dx="713" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gre9VA7BSyBFgtz18lut-3" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Gre9VA7BSyBFgtz18lut-1" target="Gre9VA7BSyBFgtz18lut-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-1" value="Docker Run" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-2" value="Commands" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-4" value="docker run image_name" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-5" value="" style="endArrow=classic;html=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.465;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gre9VA7BSyBFgtz18lut-2" target="Gre9VA7BSyBFgtz18lut-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="100" as="sourcePoint" />
+            <mxPoint x="560" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-6" value="open image" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rounded=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" connectable="0" vertex="1" parent="Gre9VA7BSyBFgtz18lut-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-7" value="docker ps -a&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-8" value="" style="endArrow=classic;html=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.461;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gre9VA7BSyBFgtz18lut-2" target="Gre9VA7BSyBFgtz18lut-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="540" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-9" value="open all images" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rounded=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" connectable="0" vertex="1" parent="Gre9VA7BSyBFgtz18lut-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-10" value="docker rm image_name&amp;nbsp;&lt;div&gt;docker rm $(docker ps -a -q -f status=exited) # delete all images&lt;/div&gt;&lt;div&gt;docker rmi # delete images that no longer need&amp;nbsp;&lt;/div&gt;&lt;div&gt;docker container prune # delete all stopped containers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.517;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Gre9VA7BSyBFgtz18lut-2" target="Gre9VA7BSyBFgtz18lut-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gre9VA7BSyBFgtz18lut-12" value="delete image from docker&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;glass=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;gradientColor=none;" vertex="1" connectable="0" parent="Gre9VA7BSyBFgtz18lut-11">
+          <mxGeometry x="0.1078" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
